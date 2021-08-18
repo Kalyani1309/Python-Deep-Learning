@@ -1,0 +1,15 @@
+ID: 101, Emp. Name: Jane Jameson, Department: CS, Current salary: $11025.0
+
+ID: 156, Emp. Name: Sam Samuelson, Department: IT, Current salary: $9000.0
+
+ID: 104, Emp. Name: Bob Boberson, Department: CS, Current salary: $9975.0
+
+ID: 136, Emp. Name: Tim Thomason, Department: IT, Current salary: $10000.0
+
+ID: 188, Emp. Name: Mike Michaelson, Department: IS, Not employed with the company. Pay earned to date: $32000.0
+
+ID: 190, Emp. Name: Jason Jasonson, Department: IS, Current salary: $7875.0
+
+Total number of employees: 6
+
+Average Salary paid to all employees: $9312.5
